@@ -1,6 +1,7 @@
 on:
   schedule:
-    - cron: '53 20,8 * * *'
+    - cron: '0 4 * * 4'
+      timezone: Asia/Shanghai
   push:
     branches:
       - master
