@@ -518,6 +518,20 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "camp_zone_13": {
+      "zoneID": "camp_zone_13",
+      "zoneIndex": 0,
+      "type": "CAMPAIGN",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "tower_tr_01": {
       "zoneID": "tower_tr_01",
       "zoneIndex": 0,
@@ -790,6 +804,174 @@
       "type": "ROGUELIKE",
       "zoneNameFirst": null,
       "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "rogue_4": {
+      "zoneID": "rogue_4",
+      "zoneIndex": 4,
+      "type": "ROGUELIKE",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act28sre_zone1": {
+      "zoneID": "act28sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Anemic Platform",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act28sre_zone2": {
+      "zoneID": "act28sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Black Landship",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act17mini_zone1": {
+      "zoneID": "act17mini_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Enter Kazdel",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act27sre_zone1": {
+      "zoneID": "act27sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "A Holiday at the Hot Springs",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act27sre_zone2": {
+      "zoneID": "act27sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Treasurehunting in Siesta",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act27sre_zone3": {
+      "zoneID": "act27sre_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Surfing the Lava",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act35side_zone1": {
+      "zoneID": "act35side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Citizen's Garden",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act35side_zone2": {
+      "zoneID": "act35side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Harvest Gathering",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act35side_zone3": {
+      "zoneID": "act35side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Treasure House",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act26sre_zone1": {
+      "zoneID": "act26sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Sanctilaminium Ambrosii",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act26sre_zone2": {
+      "zoneID": "act26sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Sacrarium Derelictum",
       "zoneNameTitleCurrent": null,
       "zoneNameTitleUnCurrent": null,
       "zoneNameTitleEx": null,
@@ -4073,6 +4255,104 @@
       "lockedText": null,
       "canPreview": false,
       "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_20_zone1": {
+      "zoneID": "permanent_sidestory_20_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Sanctilaminium Ambrosii",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_20_zone2": {
+      "zoneID": "permanent_sidestory_20_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Sacrarium Derelictum",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_17_zone1": {
+      "zoneID": "permanent_sidestory_17_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "A Holiday at the Hot Springs",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_17_zone2": {
+      "zoneID": "permanent_sidestory_17_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Treasurehunting in Siesta",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_17_zone3": {
+      "zoneID": "permanent_sidestory_17_zone3",
+      "zoneIndex": 2,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Surfing the Lava",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_22_zone1": {
+      "zoneID": "permanent_sidestory_22_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Anemic Platform",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_22_zone2": {
+      "zoneID": "permanent_sidestory_22_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "Black Landship",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
     }
   },
   "weeklyAdditionInfo": {
@@ -4162,6 +4442,50 @@
     }
   },
   "zoneValidInfo": {
+    "act28sre_zone1": {
+      "startTs": 1740762000,
+      "endTs": 1741604399
+    },
+    "act28sre_zone2": {
+      "startTs": 1740762000,
+      "endTs": 1741604399
+    },
+    "act17mini_zone1": {
+      "startTs": 1738929600,
+      "endTs": 1739530799
+    },
+    "act27sre_zone1": {
+      "startTs": 1735923600,
+      "endTs": 1736765999
+    },
+    "act27sre_zone2": {
+      "startTs": 1735923600,
+      "endTs": 1736765999
+    },
+    "act27sre_zone3": {
+      "startTs": 1735923600,
+      "endTs": 1736765999
+    },
+    "act35side_zone1": {
+      "startTs": 1737046800,
+      "endTs": 1738839599
+    },
+    "act35side_zone2": {
+      "startTs": 1737673200,
+      "endTs": 1738839599
+    },
+    "act35side_zone3": {
+      "startTs": 1738278000,
+      "endTs": 1738839599
+    },
+    "act26sre_zone1": {
+      "startTs": 1735059600,
+      "endTs": 1735901999
+    },
+    "act26sre_zone2": {
+      "startTs": 1735059600,
+      "endTs": 1735901999
+    },
     "act34side_zone1": {
       "startTs": 1733227200,
       "endTs": 1734433199

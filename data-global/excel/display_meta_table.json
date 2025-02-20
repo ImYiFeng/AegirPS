@@ -173,6 +173,96 @@
         "obtainApproach": "Unique unlock"
       },
       {
+        "avatarId": "avatar_special_19",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 19,
+        "avatarIdDesc": "Obtained by purchasing Package\n'No Chitchat, Thx'",
+        "avatarItemName": "'No Chitchat, Thx'",
+        "avatarItemDesc": "A photo sticker of Logos and Badtz-Maru. 'The two of you already have a mighty fine aura. No need to say anything to look cool.'",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_20",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 20,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Ribbon Exchange'",
+        "avatarItemName": "'Ribbon Exchange'",
+        "avatarItemDesc": "A photo sticker of Goldenglow and Hello Kitty. If you're scared of your hair getting all over the place, try a bow-tie ribbon!",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_21",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 21,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Detective Team'",
+        "avatarItemName": "'Detective Team'",
+        "avatarItemDesc": "A photo sticker of Lee and Pompompurin. On hearing Lee's meticulously laid-out plans for detective work, Pompompurin has this to say: 'Going out to play, awesome!'",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_22",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 22,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Eureka's Dream'",
+        "avatarItemName": "'Eureka's Dream'",
+        "avatarItemDesc": "A rare screenshot of U-Official falling asleep during a stream. In her dream, her pillows turned into true friends.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_23",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 23,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Wink—'",
+        "avatarItemName": "'Wink—'",
+        "avatarItemDesc": "A photo sticker of Amiya and My Melody. Upon seeing the adorable faces of these two, even the coldest of hearts will melt.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_24",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 24,
+        "avatarIdDesc": "Obtained by purchasing Package\n'I Like Your Skull'",
+        "avatarItemName": "'I Like Your Skull'",
+        "avatarItemDesc": "A photo sticker of W and Kuromi. W seems real fond of Kuromi's pink skull. She's better not getting any nasty ideas...",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_25",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 25,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Angel on the Cloud'",
+        "avatarItemName": "'Angel on the Cloud'",
+        "avatarItemDesc": "A photo sticker of Executor and Cinnamoroll. A Sankta's wings of light might not allow you to fly, but Cinnamoroll's ears can!",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_26",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 26,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Silent Us'",
+        "avatarItemName": "'Silent Us'",
+        "avatarItemDesc": "A photo of Młynar and Gudetama. If you're not going to break the silence, then frying an egg in silence it is.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_35",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 31,
+        "avatarIdDesc": "Obtained by purchasing the Outfit at its first launch\n'Bunny Serenade'",
+        "avatarItemName": "'Bunny Serenade'",
+        "avatarItemDesc": "A loving moment gently falls upon us, as the stars scatter across the night sky like dancing notes.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
         "avatarId": "avatar_activity_OF",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 1,
@@ -583,10 +673,20 @@
         "obtainApproach": "Obtained from Reclamation Algorithm"
       },
       {
+        "avatarId": "avatar_activity_XB1_2",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 42,
+        "avatarIdDesc": "[Tales Within the Sand] Expansional Rewards\n'Transport Mission'",
+        "avatarItemName": "'Transport Mission'",
+        "avatarItemDesc": "Carrying your cargo, crossing the sands.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Reclamation Algorithm"
+      },
+      {
         "avatarId": "avatar_activity_CR",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 43,
-        "avatarIdDesc": "From Siege Sign-In Event\n'All In A Glance'",
+        "avatarIdDesc": "Siege Login Event\n'All In A Glance'",
         "avatarItemName": "'All In A Glance'",
         "avatarItemDesc": "Observation is power.",
         "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
@@ -619,6 +719,46 @@
         "avatarIdDesc": "[Lingering Echoes] Record Restoration\n'Lingering Echoes'",
         "avatarItemName": "'Lingering Echoes'",
         "avatarItemDesc": "The sunset is glaringly bright, but none wish to bow their heads before their fate.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_DV",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 47,
+        "avatarIdDesc": "[Dorothy's Vision] Record Restoration\n'Dorothy's Vision'",
+        "avatarItemName": "'Dorothy's Vision'",
+        "avatarItemDesc": "Data, experimentation, science... All to create a beautiful dream and a home.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_DC",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 48,
+        "avatarIdDesc": "[A Death in Chunfen] Record Restoration\n'A Death in Chunfen'",
+        "avatarItemName": "'A Death in Chunfen'",
+        "avatarItemDesc": "A pebble falls off a cliff. The noise is deafening.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_RL4_1",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 49,
+        "avatarIdDesc": "Furnaceside Stables Login Event\n'Brave to the End'",
+        "avatarItemName": "'Brave to the End'",
+        "avatarItemDesc": "It's just climbed up a cardboard box, but it still wants to climb the mountain's peak.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Sign-In Event"
+      },
+      {
+        "avatarId": "avatar_activity_IC",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 50,
+        "avatarIdDesc": "[Ideal City: Endless Carnival] Record Restoration\n'Ideal City: Endless Carnival'",
+        "avatarItemName": "'Ideal City: Endless Carnival'",
+        "avatarItemDesc": "Push aside the curtains of water, and go enjoy the endless summer party already!",
         "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
         "obtainApproach": "Obtained from Record Restoration"
       },
@@ -800,7 +940,16 @@
           "avatar_special_15",
           "avatar_special_16",
           "avatar_special_17",
-          "avatar_special_18"
+          "avatar_special_18",
+          "avatar_special_19",
+          "avatar_special_20",
+          "avatar_special_21",
+          "avatar_special_22",
+          "avatar_special_23",
+          "avatar_special_24",
+          "avatar_special_25",
+          "avatar_special_26",
+          "avatar_special_35"
         ]
       },
       "ACTIVITY": {
@@ -848,10 +997,15 @@
           "avatar_activity_AW",
           "avatar_activity_GA",
           "avatar_activity_XB1_1",
+          "avatar_activity_XB1_2",
           "avatar_activity_CR",
           "avatar_activity_SN",
           "avatar_activity_EP14",
-          "avatar_activity_LE"
+          "avatar_activity_LE",
+          "avatar_activity_DV",
+          "avatar_activity_DC",
+          "avatar_activity_RL4_1",
+          "avatar_activity_IC"
         ]
       },
       "DEFAULT": {
@@ -1086,6 +1240,32 @@
         "unlockDesList": [
           "Obtained by participating in the Celebration Login Event"
         ]
+      },
+      {
+        "bgId": "bg_sanrio_1",
+        "bgSortId": 18,
+        "bgStartTime": 1734714000,
+        "bgName": "Sweetness",
+        "bgMusicId": "music_bg_sanrio",
+        "bgDes": "It's definitely a bit too sweet here. But life's rather bitter, so what's wrong with adding in some cute sweetness?",
+        "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
+        "obtainApproach": "Purchase Pack",
+        "unlockDesList": [
+          "Obtained by buying Honey Party Pack in [Store]"
+        ]
+      },
+      {
+        "bgId": "bg_sandboxv2_1",
+        "bgSortId": 19,
+        "bgStartTime": 1740826800,
+        "bgName": "Vast Sands",
+        "bgMusicId": "music_sandbox_v2_2",
+        "bgDes": "Throughout this wide expanse, the ruins of several millennia slowly degrade into dust.",
+        "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
+        "obtainApproach": "Reclamation Algorithm Reward",
+        "unlockDesList": [
+          "[Reclamation Algorithm] Tales Within the Sand Reward"
+        ]
       }
     ],
     "themeList": [
@@ -1176,6 +1356,18 @@
             "limitInfoId": "bg_rainbowsix_1#1",
             "startTime": 1725555600,
             "endTime": 1727953199,
+            "invalidObtainDesc": "Currently unobtainable",
+            "displayAfterEndTime": false
+          }
+        ]
+      },
+      "bg_sanrio_1": {
+        "bgId": "bg_sanrio_1",
+        "limitInfos": [
+          {
+            "limitInfoId": "bg_sanrio_1#1",
+            "startTime": 1734714000,
+            "endTime": 1735901999,
             "invalidObtainDesc": "Currently unobtainable",
             "displayAfterEndTime": false
           }
@@ -1376,6 +1568,205 @@
         "rarity": 4,
         "isTimeLimit": false,
         "timeLimitInfoList": []
+      },
+      "nc_as2024_dreamer": {
+        "id": "nc_as2024_dreamer",
+        "name": "The Dreamer",
+        "type": "ACTIVITY",
+        "sortId": 5,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "The Dreamer",
+        "themeEnName": "The Dreamer",
+        "skinStartTime": 1739552400,
+        "skinDesc": "Opposite the dream, we move forward hand in hand to the ideal destination.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Hopes and Dreams Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_dreamer",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_as2024_pilgrim": {
+        "id": "nc_as2024_pilgrim",
+        "name": "The Pilgrim",
+        "type": "ACTIVITY",
+        "sortId": 6,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "The Pilgrim",
+        "themeEnName": "The Pilgrim",
+        "skinStartTime": 1739552400,
+        "skinDesc": "Life, years, history... You will not forget it. You shall remain the same.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Tenacious Pilgrim Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_pilgrim",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_as2024_throne": {
+        "id": "nc_as2024_throne",
+        "name": "The Throne",
+        "type": "ACTIVITY",
+        "sortId": 7,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "The Throne",
+        "themeEnName": "The Throne",
+        "skinStartTime": 1739552400,
+        "skinDesc": "No need to be obsessed with glory or to worship brilliance. We just need to clench our fists.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Throne Ascension Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_throne",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_as2024_novafive": {
+        "id": "nc_as2024_novafive",
+        "name": "☆Supernova☆",
+        "type": "ACTIVITY",
+        "sortId": 8,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "☆Supernova☆",
+        "themeEnName": "☆Supernova☆",
+        "skinStartTime": 1739552400,
+        "skinDesc": "Let's dance along with the music and the twinkling lights!",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Superfun Supernova Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_novafive",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_landscape_1": {
+        "id": "nc_landscape_1",
+        "name": "Vista",
+        "type": "ACTIVITY",
+        "sortId": 9,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1739530800,
+        "skinDesc": "Waters mirror the sky, frost touches every blade, and the land is painted in hues.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Charming Vista Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Charming Vista Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 4,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_landscape_1",
+            "availStartTime": 1739530800,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_moon_1": {
+        "id": "nc_moon_1",
+        "name": "An Invitation to Moons",
+        "type": "ACTIVITY",
+        "sortId": 10,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "An Invitation to Moons",
+        "themeEnName": "An invitation to moons",
+        "skinStartTime": 1739876400,
+        "skinDesc": "As the sun sets, the wind suddenly rises. Leaves flutter gently, under the full moon's gaze.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Alluring Moonlight Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Alluring Moonlight Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_moon_1",
+            "availStartTime": 1739876400,
+            "availEndTime": 1741690799
+          }
+        ]
       }
     },
     "consts": {

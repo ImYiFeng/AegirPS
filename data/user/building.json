@@ -2643,6 +2643,25 @@
             },
             "workTime": 0
         },
+        "4052": {
+            "charId": "char_4052_surfer",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "308": {
             "charId": "char_308_swire",
             "lastApAddTime": 1695000000,
@@ -4049,6 +4068,25 @@
             },
             "workTime": 0
         },
+        "4173": {
+            "charId": "char_4173_nowell",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "402": {
             "charId": "char_402_tuye",
             "lastApAddTime": 1695000000,
@@ -5170,6 +5208,25 @@
             },
             "workTime": 0
         },
+        "4172": {
+            "charId": "char_4172_xingzh",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "4102": {
             "charId": "char_4102_threye",
             "lastApAddTime": 1695000000,
@@ -6196,6 +6253,25 @@
             },
             "workTime": 0
         },
+        "1040": {
+            "charId": "char_1040_blaze2",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "206": {
             "charId": "char_206_gnosis",
             "lastApAddTime": 1695000000,
@@ -7051,6 +7127,25 @@
             },
             "workTime": 0
         },
+        "2026": {
+            "charId": "char_2026_yu",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
         "264": {
             "charId": "char_264_f12yin",
             "lastApAddTime": 1695000000,
@@ -7471,6 +7566,25 @@
         },
         "1032": {
             "charId": "char_1032_excu2",
+            "lastApAddTime": 1695000000,
+            "ap": 8640000,
+            "roomSlotId": "",
+            "index": -1,
+            "changeScale": 0,
+            "bubble": {
+                "normal": {
+                    "add": -1,
+                    "ts": 0
+                },
+                "assist": {
+                    "add": -1,
+                    "ts": 0
+                }
+            },
+            "workTime": 0
+        },
+        "4010": {
+            "charId": "char_4010_etlchi",
             "lastApAddTime": 1695000000,
             "ap": 8640000,
             "roomSlotId": "",
@@ -14881,6 +14995,218 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_springfeast_ceilinglamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_sideshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_paravant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_table_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_chair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_desserttable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_lotus_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_teastove_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_bamboocarpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_coatrack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_cutofftable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_stonetable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_stonestool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_springfeast_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_ceilinglamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_censer_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_sidetable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_longtable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_screen_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_decogroup_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_dragoncutoff_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_hotpottable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_stool_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_cutoff_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_plant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_niansroom_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_arch_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_boat_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_worktable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_minicarpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_brickwall_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_tulip_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_heartdeco_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_leftchair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_teatable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_rightchair_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_carpet_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_bench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_ceilinglamp_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_plantbench_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_plantshelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_wallpaper_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_villagemanor_floor_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_oct1st_deckChair_01": {
             "count": 9999,
             "inUse": 0
@@ -15285,6 +15611,22 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_act57d4_amyCake_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_act57d4_amyViolin_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_act57d6_newYearPic_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_SF2025_sugarpaintStall_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_dropS001_theLittleMermaid_01": {
             "count": 9999,
             "inUse": 0
@@ -15653,6 +15995,14 @@
             "count": 9999,
             "inUse": 0
         },
+        "furni_terracommericials_ForteEnergyDrink_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_terracommericials_SpinachPack_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_contract_s0_01": {
             "count": 9999,
             "inUse": 0
@@ -15714,6 +16064,10 @@
             "inUse": 0
         },
         "furni_contract2_s2_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_contract2_s3_01": {
             "count": 9999,
             "inUse": 0
         },
@@ -15806,6 +16160,10 @@
             "inUse": 0
         },
         "furni_annihilation_s25_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_annihilation_s26_01": {
             "count": 9999,
             "inUse": 0
         },
@@ -16001,6 +16359,66 @@
             "count": 9999,
             "inUse": 0
         },
+        "furniM_basicRoom_chandelier_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_plant_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_cupboard_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_cupboard_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_cutoff_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_domelight_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_sofa_L_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_sofa_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_sofa_R_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_teatable_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_shelf_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_plant_02": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_desk_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_messageboard_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furniM_basicRoom_musicplayer_01": {
+            "count": 9999,
+            "inUse": 0
+        },
         "furni_act38d0_Galleria_01": {
             "count": 9999,
             "inUse": 0
@@ -16030,6 +16448,10 @@
             "inUse": 0
         },
         "furni_rogue4_stoneGate_01": {
+            "count": 9999,
+            "inUse": 0
+        },
+        "furni_act57d6_docCake_01": {
             "count": 9999,
             "inUse": 0
         }

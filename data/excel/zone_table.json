@@ -868,6 +868,160 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "act40side_zone1": {
+      "zoneID": "act40side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "识七味",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act40side_zone2": {
+      "zoneID": "act40side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "阅世情",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act40side_zone3": {
+      "zoneID": "act40side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "怅别离",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act18mini_zone1": {
+      "zoneID": "act18mini_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "走入城市",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act31sre_zone1": {
+      "zoneID": "act31sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "种植地块",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act31sre_zone2": {
+      "zoneID": "act31sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "荒城核心",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act31sre_zone3": {
+      "zoneID": "act31sre_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "大江北岸",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "zone_1": {
+      "zoneID": "zone_1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "超级钩爪",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "zone_2": {
+      "zoneID": "zone_2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "喷泉大战",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "zone_3": {
+      "zoneID": "zone_3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "心连心",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "zone_4": {
+      "zoneID": "zone_4",
+      "zoneIndex": 3,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "障碍飞车",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "act30sre_zone1": {
       "zoneID": "act30sre_zone1",
       "zoneIndex": 0,
@@ -4745,6 +4899,48 @@
       "lockedText": null,
       "canPreview": false,
       "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_25_zone1": {
+      "zoneID": "permanent_sidestory_25_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "种植地块",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_25_zone2": {
+      "zoneID": "permanent_sidestory_25_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "荒城核心",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_25_zone3": {
+      "zoneID": "permanent_sidestory_25_zone3",
+      "zoneIndex": 2,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "大江北岸",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
     }
   },
   "weeklyAdditionInfo": {
@@ -4834,6 +5030,50 @@
     }
   },
   "zoneValidInfo": {
+    "act40side_zone1": {
+      "startTs": 1737518400,
+      "endTs": 1739303999
+    },
+    "act40side_zone2": {
+      "startTs": 1738137600,
+      "endTs": 1739303999
+    },
+    "act40side_zone3": {
+      "startTs": 1738742400,
+      "endTs": 1739303999
+    },
+    "act18mini_zone1": {
+      "startTs": 1739520000,
+      "endTs": 1740081599
+    },
+    "act31sre_zone1": {
+      "startTs": 1740384000,
+      "endTs": 1741204799
+    },
+    "act31sre_zone2": {
+      "startTs": 1740384000,
+      "endTs": 1741204799
+    },
+    "act31sre_zone3": {
+      "startTs": 1740384000,
+      "endTs": 1741204799
+    },
+    "zone_1": {
+      "startTs": 1735459200,
+      "endTs": 1736625599
+    },
+    "zone_2": {
+      "startTs": 1735459200,
+      "endTs": 1736625599
+    },
+    "zone_3": {
+      "startTs": 1736020800,
+      "endTs": 1736625599
+    },
+    "zone_4": {
+      "startTs": 1736020800,
+      "endTs": 1736625599
+    },
     "act30sre_zone1": {
       "startTs": 1734595200,
       "endTs": 1735415999

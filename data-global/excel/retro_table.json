@@ -63,7 +63,14 @@
     "permanent_sidestory_19_zone1": "permanent_sidestory_19_Where_Vernal_Winds_Will_Never_Blow",
     "permanent_sidestory_19_zone2": "permanent_sidestory_19_Where_Vernal_Winds_Will_Never_Blow",
     "permanent_sidestory_18_zone1": "permanent_sidestory_18_What_the_Firelight_Casts",
-    "permanent_sidestory_18_zone2": "permanent_sidestory_18_What_the_Firelight_Casts"
+    "permanent_sidestory_18_zone2": "permanent_sidestory_18_What_the_Firelight_Casts",
+    "permanent_sidestory_20_zone1": "permanent_sidestory_20_Hortus_de_Escapismo",
+    "permanent_sidestory_20_zone2": "permanent_sidestory_20_Hortus_de_Escapismo",
+    "permanent_sidestory_17_zone1": "permanent_sidestory_21_so_Long_Adele",
+    "permanent_sidestory_17_zone2": "permanent_sidestory_21_so_Long_Adele",
+    "permanent_sidestory_17_zone3": "permanent_sidestory_21_so_Long_Adele",
+    "permanent_sidestory_22_zone1": "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures",
+    "permanent_sidestory_22_zone2": "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures"
   },
   "stageValidInfo": {
     "act9d0_01": {
@@ -3225,6 +3232,406 @@
     "act22side_ex08#f#": {
       "startTs": 1725447600,
       "endTs": -1
+    },
+    "act26side_st01": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_tr01": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_01": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_02": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_03": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_tr02": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_04": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_05": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_06": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_st02": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_07": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_08": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_st03": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex01": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex01#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex02": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex02#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex03": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex03#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex04": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex04#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex05": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex05#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex06": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex06#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex07": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex07#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex08": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act26side_ex08#f#": {
+      "startTs": 1736247600,
+      "endTs": -1
+    },
+    "act27side_st01": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_tr01": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_01": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_02": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_03": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_04": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_05": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_tr02": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_st02": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_06": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_07": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_08": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_st03": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex01": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex01#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex02": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex02#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex03": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex03#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex04": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex04#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex05": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex05#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex06": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex06#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex07": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex07#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex08": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_ex08#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s01": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s01#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s02": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s02#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s03": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s03#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s04": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s04#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s05": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_s05#f#": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_mo01": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_sp01": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_sp02": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act27side_sp03": {
+      "startTs": 1737111600,
+      "endTs": -1
+    },
+    "act28side_st01": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_tr01": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_01": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_02": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_03": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_04": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_05": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_06": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_st02": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_07": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_08": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_st03": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex01": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex01#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex02": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex02#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex03": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex03#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex04": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex04#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex05": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex05#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex06": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex06#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex07": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex07#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex08": {
+      "startTs": 1741950000,
+      "endTs": -1
+    },
+    "act28side_ex08#f#": {
+      "startTs": 1741950000,
+      "endTs": -1
     }
   },
   "stages": null,
@@ -3244,8 +3651,8 @@
       "haveTrail": true,
       "customActId": null,
       "customActType": "DEFAULT",
-      "isRecommend": false,
-      "recommendTagRemoveStage": null
+      "isRecommend": true,
+      "recommendTagRemoveStage": "act9d0_08"
     },
     "permanent_sub_2_A_Walk_In_The_Dust": {
       "retroId": "permanent_sub_2_A_Walk_In_The_Dust",
@@ -3596,11 +4003,11 @@
         "act19sre"
       ],
       "startTime": 1710846000,
-      "trailStartTime": -1,
+      "trailStartTime": 1739552400,
       "index": 16,
       "name": "Dorothy's Vision",
       "detail": "Weaved from science, computed from dreams.\nData and experiments have created a behemoth.\nIt floats above Trimounts, gazing silently at all that happens below.\nForward or backwards, the direction of science holds true.\nIt is always progressing, for good or for ill.",
-      "haveTrail": false,
+      "haveTrail": true,
       "customActId": null,
       "customActType": "DEFAULT",
       "isRecommend": false,
@@ -3672,6 +4079,60 @@
       "index": 19,
       "name": "What the Firelight Casts",
       "detail": "Tara, a vaguely-defined region, a muddy morass... \nA homeland that can be found only in old songs.\nShe once escaped from there, only to bury everything about herself and return again.\n'Lost souls' emerge from the shadows, and Dublinn's march leaves scorch marks across the land.\nThe red dragon, endowed by her bloodline with the flame of life, must bear the weight of life itself.\nWhat, then, does the firelight cast? Whose shadow am I now?",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "isRecommend": false,
+      "recommendTagRemoveStage": null
+    },
+    "permanent_sidestory_20_Hortus_de_Escapismo": {
+      "retroId": "permanent_sidestory_20_Hortus_de_Escapismo",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act26side",
+        "act26sre"
+      ],
+      "startTime": 1736247600,
+      "trailStartTime": -1,
+      "index": 20,
+      "name": "Hortus de Escapismo",
+      "detail": "After sixty years of silence, Sanctilaminium Ambrosii sends out a cry for help.\nParadise is stranded in the barrens, and order teeters on the brink of destruction.\nIt can take years to establish a true friendship, yet the collapse of trust can happen in seconds.\nThe pious have no choice but to renounce their faith, and the innocent must take on sin and plea mercy.\nThe young saint asks himself: how do you correct suffering if it was not caused by error?",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "isRecommend": false,
+      "recommendTagRemoveStage": null
+    },
+    "permanent_sidestory_21_so_Long_Adele": {
+      "retroId": "permanent_sidestory_21_so_Long_Adele",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act27side",
+        "act27sre"
+      ],
+      "startTime": 1737111600,
+      "trailStartTime": -1,
+      "index": 21,
+      "name": "So Long, Adele: Home Away From Home",
+      "detail": "Siesta is moved onto a nomadic city, and leaves the shadow of the volcano.\nTheir new homes may be built, but the people do not wish to give up their memories.\nA volcanologist reaches out to touch the past, when clouds suddenly float down as balls of fluff.\nThe night breeze melts away the dreams of summer, while guitars strum out gentle notes.\nThe pulse of the land blazes white hot, and the volcano known as 'Love' will erupt someday...\nIt is parting, and reunion, and the song ever-present in the heart.",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "TYPE_ACT27SIDE",
+      "isRecommend": false,
+      "recommendTagRemoveStage": null
+    },
+    "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures": {
+      "retroId": "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act28side",
+        "act28sre"
+      ],
+      "startTime": 1741950000,
+      "trailStartTime": -1,
+      "index": 22,
+      "name": "Come Catastrophes or Wakes of Vultures",
+      "detail": "The residual heat from the energy tower once warmed Davistown.\nYet, the future they once hoped for has drifted away like white smoke from a chimney.\nIntractable problems, things that can no longer be protected...\nThe bitterly cold winds blow, promising a long and relentless winter.\nJessica stands in the snow, gun aimed skyward—\nFor an elusive promise, for a helpless sigh.\nFor the ruins of dreams and homes.",
       "haveTrail": false,
       "customActId": null,
       "customActType": "DEFAULT",
@@ -5206,6 +5667,180 @@
       "relatedFullPotentialItemId": null,
       "themeColor": "aa2e1e",
       "fullPotentialItemId": "voucher_full_pianst"
+    },
+    "permanent_sidestory_15_Dorothy's_Vision": {
+      "retroId": "permanent_sidestory_15_Dorothy's_Vision",
+      "trailStartTime": 1739552400,
+      "trailRewardList": [
+        {
+          "trailRewardId": "trailReward_sidestory_15_1",
+          "starCount": 12,
+          "rewardItem": {
+            "id": "char_135_halo",
+            "count": 1,
+            "type": "CHAR"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_15_2",
+          "starCount": 24,
+          "rewardItem": {
+            "id": "voucher_full_halo",
+            "count": 1,
+            "type": "VOUCHER_FULL_POTENTIAL"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_15_3",
+          "starCount": 42,
+          "rewardItem": {
+            "id": "uni_set_rhineLab",
+            "count": 1,
+            "type": "UNI_COLLECTION"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_15_4",
+          "starCount": 50,
+          "rewardItem": {
+            "id": "furni_dropS026_greed_01",
+            "count": 1,
+            "type": "FURN"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_15_5",
+          "starCount": 62,
+          "rewardItem": {
+            "id": "avatar_activity_DV",
+            "count": 1,
+            "type": "PLAYER_AVATAR"
+          }
+        }
+      ],
+      "stageList": [
+        "act19side_01",
+        "act19side_02",
+        "act19side_03",
+        "act19side_04",
+        "act19side_05",
+        "act19side_06",
+        "act19side_07",
+        "act19side_08",
+        "act19side_s01",
+        "act19side_s02",
+        "act19side_ex01",
+        "act19side_ex01#f#",
+        "act19side_ex02",
+        "act19side_ex02#f#",
+        "act19side_ex03",
+        "act19side_ex03#f#",
+        "act19side_ex04",
+        "act19side_ex04#f#",
+        "act19side_ex05",
+        "act19side_ex05#f#",
+        "act19side_ex06",
+        "act19side_ex06#f#",
+        "act19side_ex07",
+        "act19side_ex07#f#",
+        "act19side_ex08",
+        "act19side_ex08#f#"
+      ],
+      "relatedChar": "char_135_halo",
+      "relatedFullPotentialItemId": null,
+      "themeColor": "a1d82b",
+      "fullPotentialItemId": "voucher_full_halo"
+    },
+    "permanent_sidestory_16_Summer_Carnival_City": {
+      "retroId": "permanent_sidestory_16_Summer_Carnival_City",
+      "trailStartTime": 1738256400,
+      "trailRewardList": [
+        {
+          "trailRewardId": "trailReward_sidestory_16_1",
+          "starCount": 15,
+          "rewardItem": {
+            "id": "char_4054_malist",
+            "count": 1,
+            "type": "CHAR"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_16_2",
+          "starCount": 27,
+          "rewardItem": {
+            "id": "voucher_full_malist",
+            "count": 1,
+            "type": "VOUCHER_FULL_POTENTIAL"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_16_3",
+          "starCount": 43,
+          "rewardItem": {
+            "id": "uni_set_idealCity",
+            "count": 1,
+            "type": "UNI_COLLECTION"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_16_4",
+          "starCount": 59,
+          "rewardItem": {
+            "id": "furni_dropS030_aTripToTheMoon_01",
+            "count": 1,
+            "type": "FURN"
+          }
+        },
+        {
+          "trailRewardId": "trailReward_sidestory_16_5",
+          "starCount": 78,
+          "rewardItem": {
+            "id": "avatar_activity_IC",
+            "count": 1,
+            "type": "PLAYER_AVATAR"
+          }
+        }
+      ],
+      "stageList": [
+        "act20side_01",
+        "act20side_02",
+        "act20side_03",
+        "act20side_04",
+        "act20side_05",
+        "act20side_06",
+        "act20side_07",
+        "act20side_08",
+        "act20side_09",
+        "act20side_ex01",
+        "act20side_ex01#f#",
+        "act20side_ex02",
+        "act20side_ex02#f#",
+        "act20side_ex03",
+        "act20side_ex03#f#",
+        "act20side_ex04",
+        "act20side_ex04#f#",
+        "act20side_ex05",
+        "act20side_ex05#f#",
+        "act20side_ex06",
+        "act20side_ex06#f#",
+        "act20side_ex07",
+        "act20side_ex07#f#",
+        "act20side_ex08",
+        "act20side_ex08#f#",
+        "act20side_s01",
+        "act20side_s01#f#",
+        "act20side_s02",
+        "act20side_s02#f#",
+        "act20side_s03",
+        "act20side_s03#f#",
+        "act20side_s04",
+        "act20side_s04#f#",
+        "act20side_mo01"
+      ],
+      "relatedChar": "char_4054_malist",
+      "relatedFullPotentialItemId": null,
+      "themeColor": "45c0ff",
+      "fullPotentialItemId": "voucher_full_malist"
     }
   },
   "stageList": {
@@ -81564,7 +82199,7 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-TR-1",
       "name": "Time to Pray",
-      "description": "Only through introspective prayer can one's mind be freed from panic.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.",
+      "description": "Only through introspective prayer can one's mind be freed from panic.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -81644,7 +82279,7 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-1",
       "name": "Home Sweet Home",
-      "description": "Before this place became a den for Infected creatures, it was once a magnificent building with towering eaves.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.",
+      "description": "Before this place became a den for Infected creatures, it was once a magnificent building with towering eaves.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.",
       "hardStagedId": null,
       "dangerLevel": "LV.20",
       "dangerPoint": -1.0,
@@ -81777,7 +82412,7 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-2",
       "name": "River of Life",
-      "description": "How can we pave the way for life in this desolate wasteland?\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
+      "description": "How can we pave the way for life in this desolate wasteland?\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
       "hardStagedId": null,
       "dangerLevel": "LV.35",
       "dangerPoint": -1.0,
@@ -81910,9 +82545,9 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-3",
       "name": "No Empty Hands",
-      "description": "A savvy raider will never return empty-handed.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
+      "description": "A savvy raider will never return empty-handed.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 1",
+      "dangerLevel": "Elite 1 Lv.1",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_BEFORE",
       "canPractice": true,
@@ -82043,7 +82678,7 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-TR-2",
       "name": "Absolute Peace",
-      "description": "If the building itself is riddled with holes, how can the people within hope to avoid disaster?\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "If the building itself is riddled with holes, how can the people within hope to avoid disaster?\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -82123,9 +82758,9 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-4",
       "name": "My Life I Gave for You",
-      "description": "Behind a quiet and comfortable life is someone protecting you from the wind and rain.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "Behind a quiet and comfortable life is someone protecting you from the wind and rain.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 20",
+      "dangerLevel": "Elite 1 Lv.20",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_BEFORE",
       "canPractice": true,
@@ -82256,9 +82891,9 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-5",
       "name": "God in His Temple",
-      "description": "Idols can be desecrated, faith can falter.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "Idols can be desecrated, faith can falter.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 30",
+      "dangerLevel": "Elite 1 Lv.30",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -82395,9 +83030,9 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-6",
       "name": "Serenade",
-      "description": "The black-horned angel prays for dawn's arrival.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "The black-horned angel prays for dawn's arrival.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 50",
+      "dangerLevel": "Elite 1 Lv.50",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -82631,9 +83266,9 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-7",
       "name": "Joined by Love",
-      "description": "Life may be tough, but we'll pull through along with our brothers.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "Life may be tough, but we'll pull through along with our brothers.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": null,
-      "dangerLevel": "Elite 2 Lv. 10",
+      "dangerLevel": "Elite 2 Lv.10",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -82799,9 +83434,9 @@
       "zoneId": "permanent_sidestory_20_zone1",
       "code": "HE-8",
       "name": "Devout Follower",
-      "description": "People always wish to have their prayers answered, searching for a salvation that does not exist.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way\n<@lv.fs><@lv.item><Holy Statues></> are destroyed upon the stage's start</>",
+      "description": "People always wish to have their prayers answered, searching for a salvation that does not exist.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way\n<@lv.fs><@lv.item><Holy Statues></> are destroyed upon the stage's start</>",
       "hardStagedId": null,
-      "dangerLevel": "Elite 2 Lv. 20",
+      "dangerLevel": "Elite 2 Lv.20",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -83035,9 +83670,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-1",
       "name": "Come Ye Faithful",
-      "description": "They swarmed forth, no piety at all.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
+      "description": "They swarmed forth, no piety at all.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
       "hardStagedId": "act26side_ex01#f#",
-      "dangerLevel": "Elite 1 Lv. 50",
+      "dangerLevel": "Elite 1 Lv.50",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -83199,9 +83834,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-2",
       "name": "Lead Me Home",
-      "description": "Who is willing to work tirelessly to ensure a smooth road ahead for believers?\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
+      "description": "Who is willing to work tirelessly to ensure a smooth road ahead for believers?\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
       "hardStagedId": "act26side_ex02#f#",
-      "dangerLevel": "Elite 1 Lv. 60",
+      "dangerLevel": "Elite 1 Lv.60",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -83363,9 +83998,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-3",
       "name": "Rock of Ages",
-      "description": "Who is willing to risk their lives to forever keep their home safe?\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "Who is willing to risk their lives to forever keep their home safe?\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": "act26side_ex03#f#",
-      "dangerLevel": "Elite 2 Lv. 10",
+      "dangerLevel": "Elite 2 Lv.10",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -83527,9 +84162,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-4",
       "name": "Destitute and Emaciated",
-      "description": "Everything is destitute and deficient, and the feeling of a full belly has long been forgotten.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "Everything is destitute and deficient, and the feeling of a full belly has long been forgotten.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": "act26side_ex04#f#",
-      "dangerLevel": "Elite 2 Lv. 15",
+      "dangerLevel": "Elite 2 Lv.15",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -83691,9 +84326,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-5",
       "name": "Towards Greater Heights",
-      "description": "The past has been left behind, but it still continues to curse us from afar.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
+      "description": "The past has been left behind, but it still continues to curse us from afar.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<@lv.item><Makeshift Walkway></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately",
       "hardStagedId": "act26side_ex05#f#",
-      "dangerLevel": "Elite 2 Lv. 20",
+      "dangerLevel": "Elite 2 Lv.20",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -83775,7 +84410,7 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-5",
       "name": "Towards Greater Heights",
-      "description": "<@lv.fs>Condition:</>\n3 tiles on the battlefield are no longer available for deployment",
+      "description": "<@lv.fs>Condition:</>\n3 tiles on the battlefield are no longer available for deployment.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -83855,9 +84490,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-6",
       "name": "The Lord Accepts Sinners",
-      "description": "Look, Lord, at how they plunder the poor.\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<Makeshift Walkway><@lv.item></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "Look, Lord, at how they plunder the poor.\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<Makeshift Walkway><@lv.item></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": "act26side_ex06#f#",
-      "dangerLevel": "Elite 2 Lv. 30",
+      "dangerLevel": "Elite 2 Lv.30",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -83939,7 +84574,7 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-6",
       "name": "The Lord Accepts Sinners",
-      "description": "<@lv.fs>Condition:</>\nElite Wasteland Robbers are invisible.",
+      "description": "<@lv.fs>Condition:</>\nElite Wasteland Robbers are Invisible.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -84019,9 +84654,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-7",
       "name": "Agape",
-      "description": "It is said that love conquers all, but is that really true?\n<@lv.item><Holy Statue></>Can calm the emotions of residents.\n<Makeshift Walkway><@lv.item></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
+      "description": "It is said that love conquers all, but is that really true?\n<@lv.item><Holy Statue></> Can calm the emotions of residents.\n<Makeshift Walkway><@lv.item></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way",
       "hardStagedId": "act26side_ex07#f#",
-      "dangerLevel": "Elite 2 Lv. 35",
+      "dangerLevel": "Elite 2 Lv.35",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -84103,7 +84738,7 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-7",
       "name": "Agape",
-      "description": "<@lv.fs>Condition:</>\n1 additional <@lv.item><Crumbling Masonry> </> will appear",
+      "description": "<@lv.fs>Condition:</>\n1 additional <@lv.item><Crumbling Masonry></> will appear",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -84183,9 +84818,9 @@
       "zoneId": "permanent_sidestory_20_zone2",
       "code": "HE-EX-8",
       "name": "Last Rays of Dusk",
-      "description": "We eventually face the end of our journey through life, alone.\n<Makeshift Walkway><@lv.item></>A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></>Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way\n<@lv.fs>Ranged Operators can be deployed on Melee tiles in this stage</>",
+      "description": "We eventually face the end of our journey through life, alone.\n<Makeshift Walkway><@lv.item></> A temporary walkway built with planks, easily destroyed by falling rocks, turning into Holes in the process; Ground units that pass it will fall to the bottom and be defeated immediately\n<@lv.item><Crumbling Masonry></> Rocks will periodically fall and roll down a slope, dealing damage to friendly units in the way\n<@lv.fs>Ranged Operators can be deployed on Melee tiles in this stage.</>",
       "hardStagedId": "act26side_ex08#f#",
-      "dangerLevel": "Elite 2 Lv. 40",
+      "dangerLevel": "Elite 2 Lv.40",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_HE_AFTER",
       "canPractice": true,
@@ -84427,7 +85062,7 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-TR-1",
       "name": "Baa Baa Black",
-      "description": "Strange creatures have appeared – stand in the mist, and take a look around!\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "Strange creatures have appeared – stand in the mist, and take a look around!\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -84507,7 +85142,7 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-1",
       "name": "Do Your Ears Hang Low?",
-      "description": "Prick up your ears – do you hear his question? One, two, three... This summer, he will be waiting for your answer.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "Prick up your ears – do you hear his question? One, two, three... This summer, he will be waiting for your answer.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
       "dangerLevel": "LV.20",
       "dangerPoint": -1.0,
@@ -84640,7 +85275,7 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-2",
       "name": "Little Boy Blue",
-      "description": "Can't see it in the pool, can't see it in the sky. Dip it into strawberry ice cream, and the soft and fluffy has no where to hide.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "Can't see it in the pool, can't see it in the sky. Dip it into strawberry ice cream, and the soft and fluffy has no where to hide.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
       "dangerLevel": "LV.35",
       "dangerPoint": -1.0,
@@ -84773,9 +85408,9 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-3",
       "name": "Finger Family",
-      "description": "Hold the thumbtack with one finger, thread the needle with index and middle... Use all five, and pluck the strings of the northern wind.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "Hold the thumbtack with one finger, thread the needle with index and middle... Use all five, and pluck the strings of the northern wind.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 1",
+      "dangerLevel": "Elite 1 Lv.1",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_streetnight",
       "canPractice": true,
@@ -84906,9 +85541,9 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-4",
       "name": "A Sailor Went to Sea",
-      "description": "What has been swallowed can be spat back out. What has left can return. Everything changes, nothing changes.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "What has been swallowed can be spat back out. What has left can return. Everything changes, nothing changes.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 20",
+      "dangerLevel": "Elite 1 Lv.20",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_river",
       "canPractice": true,
@@ -85045,9 +85680,9 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-5",
       "name": "I Can Sing a Rainbow",
-      "description": "The volcano sees me, the lyrics write me. The coffee tastes me, the 'seeds' bury me.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "The volcano sees me, the lyrics write me. The coffee tastes me, the 'seeds' bury me.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 30",
+      "dangerLevel": "Elite 1 Lv.30",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_river",
       "canPractice": true,
@@ -85178,7 +85813,7 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-TR-2",
       "name": "Clap Along with Me",
-      "description": "When you see me, clap your hands – then hurry up and follow me!\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "When you see me, clap your hands – then hurry up and follow me!\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -85338,9 +85973,9 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-6",
       "name": "Little Cabin in the Wood",
-      "description": "The climbing picks jingle, the tiny rocks shine black and bright. Be careful when heading up and down the mountain, lest the rocks be your plight.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "The climbing picks jingle, the tiny rocks shine black and bright. Be careful when heading up and down the mountain, lest the rocks be your plight.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 50",
+      "dangerLevel": "Elite 1 Lv.50",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_streetnight",
       "canPractice": true,
@@ -85494,9 +86129,9 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-7",
       "name": "Cry On My Shoulder",
-      "description": "Into the heartbeats our footsteps melt, a place nowhere to find the tear-soaked 'pelt.'\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.\nA large number of <@lv.item>'Fluffy Buddies'</> will appear on the field.\n<@lv.fs>During this operation, ranged Operators may be deployed on melee tiles.</>",
+      "description": "Into the heartbeats our footsteps melt, a place nowhere to find the tear-soaked 'pelt.'\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.\nA large number of <@lv.item>'Fluffy Buddies'</> will appear on the field.\n<@lv.fs>Ranged Operators can be deployed on Melee tiles in this stage.</>",
       "hardStagedId": null,
-      "dangerLevel": "Elite 1 Lv. 60",
+      "dangerLevel": "Elite 1 Lv.60",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_river",
       "canPractice": true,
@@ -85662,9 +86297,9 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-8",
       "name": "Skidamarink",
-      "description": "The love of your life, love akin to a volcano.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.\nA large number of <@lv.item>'Fluffy Buddies'</> will appear on the field.",
+      "description": "The love of your life, love akin to a volcano.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.\nA large number of <@lv.item>'Fluffy Buddies'</> will appear on the field.",
       "hardStagedId": null,
-      "dangerLevel": "Elite 2 Lv. 10",
+      "dangerLevel": "Elite 2 Lv.10",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_streetnight",
       "canPractice": true,
@@ -85898,9 +86533,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-1",
       "name": "Roses and Gold",
-      "description": "As clear as gold during the day, as mesmerizing as roses in the sunset.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.\n<@lv.fs>During this operation, ranged Operators may be deployed on melee tiles.</>",
+      "description": "As clear as gold during the day, as mesmerizing as roses in the sunset.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.\n<@lv.fs>Ranged Operators can be deployed on Melee tiles in this stage.</>",
       "hardStagedId": "act27side_ex01#f#",
-      "dangerLevel": "Elite 1 Lv. 60",
+      "dangerLevel": "Elite 1 Lv.60",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_streetnight",
       "canPractice": true,
@@ -86062,9 +86697,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-2",
       "name": "Traveling Light",
-      "description": "Swim across the hot springs many fluffy clouds.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.\n<@lv.item><Mr. Boom></>Stuns all enemies in the four adjacent tiles for a long duration.",
+      "description": "Swim across the hot springs many fluffy clouds.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.\n<@lv.item><Mr. Boom></> Stuns all enemies in the four adjacent tiles for a long duration.",
       "hardStagedId": "act27side_ex02#f#",
-      "dangerLevel": "Elite 1 Lv. 50",
+      "dangerLevel": "Elite 1 Lv.50",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_river",
       "canPractice": true,
@@ -86226,9 +86861,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-3",
       "name": "Dirty Old Town",
-      "description": "A pool of clear water can't wash clean this dirty street.\n<@lv.item><Steam Soda Bottles></>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "A pool of clear water can't wash clean this dirty street.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_ex03#f#",
-      "dangerLevel": "Elite 1 Lv. 60",
+      "dangerLevel": "Elite 1 Lv.60",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_river",
       "canPractice": true,
@@ -86310,7 +86945,7 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-3",
       "name": "Dirty Old Town",
-      "description": "<@lv.fs>Condition:</>\n<@lv.item><Steam Soda Bottles> </>have significantly increased DP cost.",
+      "description": "<@lv.fs>Condition:</>\n<@lv.item><Steam Soda Bottle></> has significantly increased DP cost.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -86390,9 +87025,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-4",
       "name": "Sailing",
-      "description": "The sky is high and the clouds are distant. It's time to get going. And bring your soda!\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "The sky is high and the clouds are distant. It's time to get going. And bring your soda!\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_ex04#f#",
-      "dangerLevel": "Elite 2 Lv. 1",
+      "dangerLevel": "Elite 2 Lv.1",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_streetnight",
       "canPractice": true,
@@ -86554,9 +87189,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-5",
       "name": "Time In A Bottle",
-      "description": "Pour yesterday's song and tomorrow's journey into a cup, and swirl them into today's wine.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "Pour yesterday's song and tomorrow's journey into a cup, and swirl them into today's wine.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_ex05#f#",
-      "dangerLevel": "Elite 2 Lv. 10",
+      "dangerLevel": "Elite 2 Lv.10",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_river",
       "canPractice": true,
@@ -86718,9 +87353,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-6",
       "name": "Cotton Fields",
-      "description": "After flowers and leaves rot into the ground, the year sets along with the sun.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "After flowers and leaves rot into the ground, the year sets along with the sun.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_ex06#f#",
-      "dangerLevel": "Elite 2 Lv. 20",
+      "dangerLevel": "Elite 2 Lv.20",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_streetnight",
       "canPractice": true,
@@ -86882,9 +87517,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-7",
       "name": "500 Miles",
-      "description": "When she returns, she sees only pure white volcanic ash.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "When she returns, she sees only pure white volcanic ash.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_ex07#f#",
-      "dangerLevel": "Elite 2 Lv. 35",
+      "dangerLevel": "Elite 2 Lv.35",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_river",
       "canPractice": true,
@@ -87046,9 +87681,9 @@
       "zoneId": "permanent_sidestory_17_zone2",
       "code": "SL-EX-8",
       "name": "Evergreen Tree",
-      "description": "The past is evergreen, and things never seem to change.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "The past is evergreen, and things never seem to change.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_ex08#f#",
-      "dangerLevel": "Elite 2 Lv. 50",
+      "dangerLevel": "Elite 2 Lv.50",
       "dangerPoint": -1.0,
       "loadingPicId": "loading_SL_streetnight",
       "canPractice": true,
@@ -87210,7 +87845,7 @@
       "zoneId": "permanent_sidestory_17_zone3",
       "code": "SL-S-1",
       "name": "On a Slow Boat East",
-      "description": "I was young when I set out. Only when I look back do I realize how long my journey has been.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "I was young when I set out. Only when I look back do I realize how long my journey has been.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_s01#f#",
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -87374,7 +88009,7 @@
       "zoneId": "permanent_sidestory_17_zone3",
       "code": "SL-S-2",
       "name": "It Never Rains in the South",
-      "description": "I've never thought about where I was going, just like I never worried about whether it'd pour the next day.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": " I've never thought about where I was going, just like I never worried about whether it'd pour the next day.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_s02#f#",
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -87458,7 +88093,7 @@
       "zoneId": "permanent_sidestory_17_zone3",
       "code": "SL-S-2",
       "name": "It Never Rains in the South",
-      "description": "<@lv.fs>Condition:</>\n<@lv.item><Steam Soda Bottles> </>have significantly increased HP",
+      "description": "<@lv.fs>Condition:</>\n<@lv.item><Steam Soda Bottle></> has significantly increased HP",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -87538,7 +88173,7 @@
       "zoneId": "permanent_sidestory_17_zone3",
       "code": "SL-S-3",
       "name": "I am Going to the West",
-      "description": "Home, sweet home, I decided not to stay, and you said you wouldn't come with me.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.\n<@lv.fs>During this operation, ranged Operators may be deployed on melee tiles.</>",
+      "description": "Home, sweet home, I decided not to stay, and you said you wouldn't come with me.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.\n<@lv.fs>Ranged Operators can be deployed on Melee tiles in this stage.</>",
       "hardStagedId": "act27side_s03#f#",
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -87702,7 +88337,7 @@
       "zoneId": "permanent_sidestory_17_zone3",
       "code": "SL-S-4",
       "name": "Northern Wood",
-      "description": "I sat down and looked around. I killed some time, and everything turned to ash.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "I sat down and looked around. I killed some time, and everything turned to ash.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_s04#f#",
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -87866,7 +88501,7 @@
       "zoneId": "permanent_sidestory_17_zone3",
       "code": "SL-S-5",
       "name": "Blowing in the Wind",
-      "description": "The volcanoes stand tall, the beaches sleep, and the ocean returns... We cannot turn a blind eye.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.",
+      "description": "The volcanoes stand tall, the beaches sleep, and the ocean returns... We cannot turn a blind eye.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.",
       "hardStagedId": "act27side_s05#f#",
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -88030,7 +88665,7 @@
       "zoneId": "permanent_sidestory_17_zone3",
       "code": "SL-MO-1",
       "name": "Take Me Home, Country Roads",
-      "description": "Let's go. Let's all go home.\n<@lv.item><Decorative Geyser> </>Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottles> </>When defeated, creates Pure White Steam in the surrounding area.\nA large number of <@lv.item>'Fluffy Buddies'</> will appear on the field.",
+      "description": "Let's go. Let's all go home.\n<@lv.item><Decorative Geyser></> Units standing around it are unaffected by vapor, and will produce Pure White Steam when attacking.\n<@lv.item><Steam Soda Bottle></> When defeated, creates Pure White Steam in the surrounding area.\nA large number of <@lv.item>'Fluffy Buddies'</> will appear on the field.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -88110,7 +88745,7 @@
       "zoneId": "permanent_sidestory_17_zone1",
       "code": "SL-P-1",
       "name": "Mary Had A Little Fluffybeast",
-      "description": "Dolly's here to compete with you! Baaa– Baaa–!\n<@lv.fs>Victory Condition:</>\n<@lv.item>Generate Pure White Steam on all the tiles in the designated area within the time limit.</>\n<@lv.fs>During this operation, ranged Operators may be deployed on melee tiles.</>\n<@lv.fs>Additional Condition:</>\n<@lv.item><Steam Soda Bottles> </>have decreased Redeployment Time.",
+      "description": "Dolly's here to compete with you! Baaa– Baaa–!\n<@lv.fs>Victory Condition:</>\n<@lv.item>Generate Pure White Steam on all the tiles in the designated area within the time limit.</>\n<@lv.fs>Ranged Operators can be deployed on Melee tiles in this stage.</>\n<@lv.fs>Additional Condition:</>\n<@lv.item><Steam Soda Bottle></> has decreased Redeployment Time.",
       "hardStagedId": null,
       "dangerLevel": "-",
       "dangerPoint": -1.0,
@@ -88292,6 +88927,2789 @@
       "startButtonOverrideId": null,
       "isStagePatch": false,
       "mainStageId": "act27side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_st01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_01-10",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_st01",
+      "levelId": null,
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-ST-1",
+      "name": "In the Line of Fire",
+      "description": "Everyone feels down on their luck, no matter where they come from.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_tr01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_tr01",
+      "levelId": "Activities/act28side/level_act28side_tr01",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-TR-1",
+      "name": "City Heat",
+      "description": "There are many ways to test new inventions in Columbia, such as using someone who won't be missed.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": false,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": -1,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": true,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "TRAINING",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_st01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_01",
+      "levelId": "Activities/act28side/level_act28side_01",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-1",
+      "name": "In a Lonely Place",
+      "description": "Preserving one's dignity is rarely an easy feat.",
+      "hardStagedId": null,
+      "dangerLevel": "LV.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 8,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 8,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "3003",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_tr01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_02",
+      "levelId": "Activities/act28side/level_act28side_02",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-2",
+      "name": "Double Indemnity",
+      "description": "Repairing something old means willfully choosing to bear the burden of time. Proceed with caution.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": null,
+      "dangerLevel": "LV.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 8,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 8,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "3003",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_03",
+      "levelId": "Activities/act28side/level_act28side_03",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-3",
+      "name": "Tricks",
+      "description": "Sometimes, issues are raised simply to prevent them from being resolved.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": null,
+      "dangerLevel": "Elite 1 Lv.1",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 9,
+      "apFailReturn": 8,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 90,
+      "goldGain": 90,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 8,
+      "completeFavor": 9,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALMOST",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "3003",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_04",
+      "levelId": "Activities/act28side/level_act28side_04",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-4",
+      "name": "The Man Who Wasn't There",
+      "description": "You should always try to raise your spirits when eating, even if it's a little difficult.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": null,
+      "dangerLevel": "Elite 1 Lv.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "GOLD",
+            "id": "4001",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "GOLD",
+            "id": "4001",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "CARD_EXP",
+            "id": "2001",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "CARD_EXP",
+            "id": "2002",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_st02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_05",
+      "levelId": "Activities/act28side/level_act28side_05",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-5",
+      "name": "Shadow of a Doubt",
+      "description": "Communication will always involve misunderstandings, and life will always move in unwanted directions.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": null,
+      "dangerLevel": "Elite 1 Lv.30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 12,
+      "apFailReturn": 11,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 120,
+      "goldGain": 120,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 11,
+      "completeFavor": 12,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "3003",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_06",
+      "levelId": "Activities/act28side/level_act28side_06",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-6",
+      "name": "The Night of the Hunter",
+      "description": "Everyone has things they can't do. But this is not a universally understood principle.",
+      "hardStagedId": null,
+      "dangerLevel": "Elite 1 Lv.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "30043",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30044",
+            "dropType": "SPECIAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30043",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30044",
+            "dropType": "SPECIAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30011",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30061",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30012",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30062",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30013",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30063",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30073",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "31013",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "3003",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_st02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_st02",
+      "levelId": null,
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-ST-2",
+      "name": "Sudden Impact",
+      "description": "Go on, make your day even more exciting.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_07",
+      "levelId": "Activities/act28side/level_act28side_07",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-7",
+      "name": "White Heat",
+      "description": "Whenever one acts, another will respond. The more fierce the action, the more extreme the reaction.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": null,
+      "dangerLevel": "Elite 2 Lv.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "31013",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "31014",
+            "dropType": "SPECIAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "31013",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "31014",
+            "dropType": "SPECIAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30021",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30041",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "CARD_EXP",
+            "id": "2001",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30022",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30042",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "CARD_EXP",
+            "id": "2002",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30023",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30043",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30083",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "31023",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "CARD_EXP",
+            "id": "2003",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_08",
+      "levelId": "Activities/act28side/level_act28side_08",
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-8",
+      "name": "So Long, Stooge",
+      "description": "Everyone will eventually figure out what they're capable of. They just need a little time.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": null,
+      "dangerLevel": "Elite 2 Lv.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 21,
+      "apFailReturn": 20,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 210,
+      "goldGain": 210,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 20,
+      "completeFavor": 21,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "MATERIAL",
+            "id": "30103",
+            "dropType": "NORMAL"
+          },
+          {
+            "type": "MATERIAL",
+            "id": "30104",
+            "dropType": "SPECIAL"
+          },
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30103",
+            "dropType": "NORMAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30104",
+            "dropType": "SPECIAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30031",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "OFTEN",
+            "type": "MATERIAL",
+            "id": "30051",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30032",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30052",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30033",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30053",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30093",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "31033",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "SOMETIMES",
+            "type": "MATERIAL",
+            "id": "30103",
+            "dropType": "ADDITIONAL"
+          },
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_st03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_08",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_st03",
+      "levelId": null,
+      "zoneId": "permanent_sidestory_22_zone1",
+      "code": "CV-ST-3",
+      "name": "Band of Outsiders",
+      "description": "Choosing to die hardly counts as living.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 0,
+      "apFailReturn": 0,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 0,
+      "dailyStageDifficulty": 0,
+      "expGain": 0,
+      "goldGain": 0,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 0,
+      "completeFavor": 0,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": true,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_st01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex01": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_st03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex01",
+      "levelId": "Activities/act28side/level_act28side_ex01",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-1",
+      "name": "Clench the Grip",
+      "description": "Prepare yourself. Something's about to start.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": "act28side_ex01#f#",
+      "dangerLevel": "Elite 1 Lv.50",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex01#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex01",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex01#f#",
+      "levelId": "Activities/act28side/level_act28side_ex01",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-1",
+      "name": "Clench the Grip",
+      "description": "<@lv.fs>Condition:</>\n<@lv.item><Waste Heat Vents></> recover less SP when attacked.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex02": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_ex01",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex02",
+      "levelId": "Activities/act28side/level_act28side_ex02",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-2",
+      "name": "Release the Safety",
+      "description": "Once you've made a decision like that, nowhere is safe anymore.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": "act28side_ex02#f#",
+      "dangerLevel": "Elite 1 Lv.60",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex02#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex02",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex02#f#",
+      "levelId": "Activities/act28side/level_act28side_ex02",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-2",
+      "name": "Release the Safety",
+      "description": "<@lv.fs>Condition:</>\n<@lv.item><Waste Heat Vents></> have greatly increased cooldowns.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 10,
+      "apFailReturn": 9,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 100,
+      "goldGain": 100,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 9,
+      "completeFavor": 10,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex03": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_ex02",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex03",
+      "levelId": "Activities/act28side/level_act28side_ex03",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-3",
+      "name": "Cock the Hammer",
+      "description": "Tell the others, and also yourself, that this time is for real.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": "act28side_ex03#f#",
+      "dangerLevel": "Elite 2 Lv.10",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex03#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex03",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex03#f#",
+      "levelId": "Activities/act28side/level_act28side_ex03",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-3",
+      "name": "Cock the Hammer",
+      "description": "<@lv.fs>Condition:</>\nMore <@lv.item><Waste Heat Vents></> will appear.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex04": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_ex03",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex04",
+      "levelId": "Activities/act28side/level_act28side_ex04",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-4",
+      "name": "Align the Sights",
+      "description": "Take aim, and look for your gun's rightful target.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": "act28side_ex04#f#",
+      "dangerLevel": "Elite 2 Lv.15",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex04#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex04",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex04#f#",
+      "levelId": "Activities/act28side/level_act28side_ex04",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-4",
+      "name": "Align the Sights",
+      "description": "<@lv.fs>Condition:</>\n<@lv.item><Waste Heat Vents></> recover less SP when attacked and have less starting SP.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex05": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_ex04",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex05",
+      "levelId": "Activities/act28side/level_act28side_ex05",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-5",
+      "name": "Squeeze the Trigger",
+      "description": "Yes, this is the most crucial step. Once you do this, there is no turning back.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": "act28side_ex05#f#",
+      "dangerLevel": "Elite 2 Lv.20",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex05#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex05",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex05#f#",
+      "levelId": "Activities/act28side/level_act28side_ex05",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-5",
+      "name": "Squeeze the Trigger",
+      "description": "<@lv.fs>Condition:</>\nMore <@lv.item><Waste Heat Vents></> will appear.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex06": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_ex05",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex06",
+      "levelId": "Activities/act28side/level_act28side_ex06",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-6",
+      "name": "Slide Recoil",
+      "description": "One who fires at another must be able to withstand the resulting kickback. Otherwise they're just a clown.\n<@lv.item><Heat Pump Passage></>Periodically deals great damage to any units on it.",
+      "hardStagedId": "act28side_ex06#f#",
+      "dangerLevel": "Elite 2 Lv.30",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex06#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex06",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex06#f#",
+      "levelId": "Activities/act28side/level_act28side_ex06",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-6",
+      "name": "Slide Recoil",
+      "description": "<@lv.fs>Condition:</>\nRadioactive Originium Slug αs grant more Energy to enemies upon death.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 15,
+      "apFailReturn": 14,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 150,
+      "goldGain": 150,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 14,
+      "completeFavor": 15,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex07": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_ex06",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex07",
+      "levelId": "Activities/act28side/level_act28side_ex07",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-7",
+      "name": "Bullets Fired",
+      "description": "A momentary but heart-throttling instant.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": "act28side_ex07#f#",
+      "dangerLevel": "Elite 2 Lv.35",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex07#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex07",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex07#f#",
+      "levelId": "Activities/act28side/level_act28side_ex07",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-7",
+      "name": "Bullets Fired",
+      "description": "<@lv.fs>Condition:</>\nMore <@lv.item><Waste Heat Vents></> will appear.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex08": {
+      "stageType": "ACTIVITY",
+      "difficulty": "NORMAL",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "act28side_ex07",
+          "completeState": "PASS"
+        }
+      ],
+      "stageId": "act28side_ex08",
+      "levelId": "Activities/act28side/level_act28side_ex08",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-8",
+      "name": "Direct Hit",
+      "description": "And now, everyone must face the consequences of that one shot. Accept them.\n<@lv.item><Waste Heat Vent></> Deals Arts damage to both enemies and allies and reduces enemies' Movement Speed, but will charge their energy.",
+      "hardStagedId": "act28side_ex08#f#",
+      "dangerLevel": "Elite 2 Lv.40",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": true,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 1,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 1,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
+      "extraCondition": null,
+      "extraInfo": null
+    },
+    "act28side_ex08#f#": {
+      "stageType": "ACTIVITY",
+      "difficulty": "FOUR_STAR",
+      "performanceStageFlag": "NORMAL_STAGE",
+      "diffGroup": "NONE",
+      "unlockCondition": [
+        {
+          "stageId": "main_02-08",
+          "completeState": "PASS"
+        },
+        {
+          "stageId": "act28side_ex08",
+          "completeState": "COMPLETE"
+        }
+      ],
+      "stageId": "act28side_ex08#f#",
+      "levelId": "Activities/act28side/level_act28side_ex08",
+      "zoneId": "permanent_sidestory_22_zone2",
+      "code": "CV-EX-8",
+      "name": "Direct Hit",
+      "description": "<@lv.fs>Condition:</>\n'Clip' Cliff uses skills more frequently.",
+      "hardStagedId": null,
+      "dangerLevel": "-",
+      "dangerPoint": -1.0,
+      "loadingPicId": "loading_CV_building",
+      "canPractice": true,
+      "canBattleReplay": false,
+      "apCost": 20,
+      "apFailReturn": 19,
+      "etItemId": "",
+      "etCost": 0,
+      "etFailReturn": 0,
+      "etButtonStyle": null,
+      "apProtectTimes": 0,
+      "diamondOnceDrop": 1,
+      "practiceTicketCost": 3,
+      "dailyStageDifficulty": 0,
+      "expGain": 200,
+      "goldGain": 200,
+      "loseExpGain": 0,
+      "loseGoldGain": 0,
+      "passFavor": 19,
+      "completeFavor": 20,
+      "slProgress": 0,
+      "displayMainItem": null,
+      "hilightMark": false,
+      "bossMark": false,
+      "isPredefined": false,
+      "isHardPredefined": false,
+      "isSkillSelectablePredefined": false,
+      "isStoryOnly": false,
+      "appearanceStyle": "MAIN_NORMAL",
+      "stageDropInfo": {
+        "firstPassRewards": null,
+        "firstCompleteRewards": null,
+        "passRewards": null,
+        "completeRewards": null,
+        "displayRewards": [
+          {
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ],
+        "displayDetailRewards": [
+          {
+            "occPercent": "ALWAYS",
+            "type": "DIAMOND",
+            "id": "4002",
+            "dropType": "COMPLETE"
+          }
+        ]
+      },
+      "canUseCharm": false,
+      "canUseTech": false,
+      "canUseTrapTool": false,
+      "canUseBattlePerformance": false,
+      "canContinuousBattle": false,
+      "startButtonOverrideId": null,
+      "isStagePatch": false,
+      "mainStageId": "act28side_ex01",
       "extraCondition": null,
       "extraInfo": null
     }

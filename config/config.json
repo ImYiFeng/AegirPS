@@ -19,14 +19,14 @@
     },
     "version": {
         "android": {
-            "resVersion": "24-12-09-16-51-40-0560bc",
-            "clientVersion": "2.4.21"
+            "resVersion": "25-02-19-09-21-28-ba1f4e",
+            "clientVersion": "2.4.41"
         }
     },
     "versionGlobal": {
         "android": {
-            "resVersion": "24-12-03-17-16-44-43f926",
-            "clientVersion": "26.3.21"
+            "resVersion": "25-02-07-19-17-38-79e870",
+            "clientVersion": "27.3.61"
         }
     },
     "remote": {},
@@ -35,9 +35,9 @@
             "sign": "sign",
             "content": {
                 "configVer": "5",
-                "funcVer": "V057",
+                "funcVer": "V058",
                 "configs": {
-                    "V057": {
+                    "V058": {
                         "override": true,
                         "network": {
                             "gs": "{server}",
@@ -62,9 +62,9 @@
             "sign": "sign",
             "content": {
                 "configVer": "1",
-                "funcVer": "V053",
+                "funcVer": "V054",
                 "configs": {
-                    "V053": {
+                    "V054": {
                         "override": true,
                         "network": {
                             "gs": "{server}",
@@ -90,7 +90,7 @@
         "selectedCrisis": "cc12"
     },
     "crisisV2Config": {
-        "selectedCrisis": "cc3"
+        "selectedCrisis": "cc2"
     },
     "towerConfig": {
         "season": "tower_season_7"
@@ -107,8 +107,8 @@
             "squadsAndFavs": false,
             "ui": false
         },
-        "activityMinStartTs": 1732766400,
-        "activityMaxStartTs": 1735156799,
+        "activityMinStartTs": 1736913600,
+        "activityMaxStartTs": 1739908799,
         "secretary": "char_1023_ghost2",
         "secretarySkinId": "char_1023_ghost2@boc#6",
         "background": "bg_kalts_1",
