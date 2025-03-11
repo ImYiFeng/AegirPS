@@ -485,18 +485,8 @@ def advancedGacha():
                 {
                     "type": "HGG_SHD",
                     "id": "4004",
-                    "count": 999
+                    "count": 1
 
-                },
-                {
-                    "type": "LGG_SHD",
-                    "id": "4005",
-                    "count": 999
-                },
-                {
-                    "type": "MATERIAL",
-                    "id": f"p_{char_id}",
-                    "count": 999
                 }
             ],
             "logInfo": {}
