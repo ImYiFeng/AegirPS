@@ -1,7 +1,6 @@
 on:
   schedule:
     - cron: '0 4 * * 4'
-      timezone: Asia/Shanghai
   push:
     branches:
       - master
@@ -16,6 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: master
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
@@ -30,6 +30,7 @@ jobs:
           repository: Kengxxiao/ArknightsGameData
           path: tmp/
           sparse-checkout: zh_CN/gamedata/excel/
+          token: ${{ secrets.GITHUB_TOKEN }}
       - run: mv tmp/zh_CN/gamedata/excel/ data/
       - run: rm -rf tmp/
       - run: rm -rf data-global/excel/
@@ -39,10 +40,11 @@ jobs:
           repository: Kengxxiao/ArknightsGameData_YoStar
           path: tmp/
           sparse-checkout: en_US/gamedata/excel/
+          token: ${{ secrets.GITHUB_TOKEN }}
       - run: mv tmp/en_US/gamedata/excel/ data-global/
       - run: rm -rf tmp/
       - run: python update_activity.py
       - run: python update_version_mod.py
       - run: git config --global user.name 'github-actions[bot]'
       - run: git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-      - run: git add . && git commit -m 'automatic update' && git push origin master || true
+      - run: git add . && git commit -m 'automatic update' && git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main || true
